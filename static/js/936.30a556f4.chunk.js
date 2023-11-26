@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[936],{936:(s,p,e)=>{s.exports=e.p+"static/media/fulham.d15b18bb0653af742d45.png"}}]);

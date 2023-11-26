@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[690],{690:(t,e,s)=>{t.exports=s.p+"static/media/tottenhamhotspur.c323ab6dbe347b35e7f0.png"}}]);

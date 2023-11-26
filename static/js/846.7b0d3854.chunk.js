@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[846],{846:(s,e,p)=>{s.exports=p.p+"static/media/arsenal.bad4c906fbc2ebd96141.png"}}]);

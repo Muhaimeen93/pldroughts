@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[351],{351:(e,p,s)=>{e.exports=s.p+"static/media/liverpool.21f7a492e724d9bba2e0.png"}}]);

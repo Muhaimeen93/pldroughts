@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[655],{655:(e,s,t)=>{e.exports=t.p+"static/media/manchestercity.edd4e0f90f97b77977b1.png"}}]);

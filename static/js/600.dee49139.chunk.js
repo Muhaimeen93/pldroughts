@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[600],{600:(e,s,p)=>{e.exports=p.p+"static/media/brentford.4bec5b6ac33e45f194e6.png"}}]);

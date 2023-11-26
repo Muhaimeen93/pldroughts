@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[991],{991:(s,e,p)=>{s.exports=p.p+"static/media/chelsea.774f07fbacfd0694d290.png"}}]);

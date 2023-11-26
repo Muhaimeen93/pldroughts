@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[136],{136:(s,a,e)=>{s.exports=e.p+"static/media/brighton&hovealbion.faa0898db235a301982f.png"}}]);

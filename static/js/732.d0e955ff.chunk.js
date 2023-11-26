@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[732],{732:(e,s,p)=>{e.exports=p.p+"static/media/burnley.39916859ebf7e0d492fd.png"}}]);

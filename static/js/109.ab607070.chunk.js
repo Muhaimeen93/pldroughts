@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[109],{109:(e,s,t)=>{e.exports=t.p+"static/media/newcastleunited.ccb5e467da522ab3ba05.png"}}]);

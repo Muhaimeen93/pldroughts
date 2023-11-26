@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[980],{980:(e,s,t)=>{e.exports=t.p+"static/media/lutontown.58a8890edfc4b1e4c1a1.png"}}]);

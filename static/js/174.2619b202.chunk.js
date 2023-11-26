@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[174],{174:(s,c,e)=>{s.exports=e.p+"static/media/crystalpalace.eb251722651da192ccc8.png"}}]);

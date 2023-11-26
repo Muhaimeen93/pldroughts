@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[167],{167:(e,s,t)=>{e.exports=t.p+"static/media/nottinghamforest.2e116e9242c77a79634b.png"}}]);

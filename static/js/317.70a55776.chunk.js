@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[317],{317:(e,s,t)=>{e.exports=t.p+"static/media/manchesterunited.8d1f67ee25ba82166fbd.png"}}]);

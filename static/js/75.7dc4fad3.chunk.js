@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[75],{75:(e,s,t)=>{e.exports=t.p+"static/media/westhamunited.d1356bfa265ee031753c.png"}}]);

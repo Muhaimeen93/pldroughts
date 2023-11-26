@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[238],{238:(e,s,p)=>{e.exports=p.p+"static/media/everton.fdc4bb8edb3ef346db76.png"}}]);

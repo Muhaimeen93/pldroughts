@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[376],{376:(s,a,e)=>{s.exports=e.p+"static/media/astonvilla.ea962760c3dd90dae92a.png"}}]);

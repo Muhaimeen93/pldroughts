@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[556],{556:(e,s,p)=>{e.exports=p.p+"static/media/sheffieldunited.9409e928425b909529a4.png"}}]);
