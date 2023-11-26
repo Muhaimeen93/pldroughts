@@ -1,0 +1,20 @@
+.homepage-container {
+  background-color: rgb(243, 243, 250);
+  padding: 10px;
+  height: 100%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  width: auto;
+}
+
+.Select-root {
+  width: 200px;
+}
+
+.dropdown {
+  width: 150px;
+}
