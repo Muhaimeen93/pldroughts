@@ -5,7 +5,6 @@ const CountdownTimer = ({ team }) => {
   const { teamName, lastWon, color } = team;
   const [logo, setLogo] = useState(null);
   const targetDate = lastWon !== "N/A" ? new Date(lastWon) : null;
-
   const calculateTimeRemaining = () => {
     const currentDate = new Date();
     const timeDifference = currentDate - targetDate;
