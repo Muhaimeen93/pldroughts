@@ -9,6 +9,7 @@ function AppRoutes() {
     <Routes>
       <Route path="/*" element={<Home />} />
       <Route path="/:urlParam/*" element={<Home />} />
+      <Route path="/:urlParam/*/*" element={<Home />} />
       {/* Add more routes as needed */}
     </Routes>
   );
