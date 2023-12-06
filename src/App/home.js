@@ -24,7 +24,7 @@ function Home() {
     );
     setSelectedTeam(selectedTeam);
     setCountdownKey(Date.now());
-    navigate(`/${selectedTeamName.toLowerCase().replace(/\s+/g, "-")}/drought`);
+    navigate(`/${selectedTeamName.toLowerCase().replace(/\s+/g, "-")}`);
   };
 
   useEffect(() => {
@@ -36,11 +36,9 @@ function Home() {
       .toLowerCase()
       .replace(/\s+/g, "-");
     if (teamFullName != null) {
-      navigate(
-        `/${teamDetails.teamName.toLowerCase().replace(/\s+/g, "-")}/drought`
-      );
+      navigate(`/${teamDetails.teamName.toLowerCase().replace(/\s+/g, "-")}`);
     } else {
-      navigate(`/${defaultTeamName}/drought`);
+      navigate(`/${defaultTeamName}`);
     }
   }, []);
   return (
@@ -57,13 +55,7 @@ function Home() {
             </MenuItem>
           ))}
         </Select>
-
-        <Routes>
-          <Route
-            path="/:teamName"
-            element={<CountdownTimer key={countdownKey} team={selectedTeam} />}
-          />
-        </Routes>
+        {<CountdownTimer key={countdownKey} team={selectedTeam} />}
       </div>
     </div>
   );
