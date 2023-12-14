@@ -2,9 +2,11 @@ import React, { useState, useEffect } from "react";
 import { Select, MenuItem } from "@mui/material";
 import CountdownTimer from "../Components/countDownTimer";
 import teamData from "../Files/teamData.json";
-import { Routes, Route, useNavigate, useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import "./home.css";
 import { getTeamName } from "../Components/teamNames";
+import Header from "../Components/header.js";
+import Footer from "../Components/footer.js";
 
 function Home() {
   const navigate = useNavigate();
@@ -42,21 +44,25 @@ function Home() {
     }
   }, []);
   return (
-    <div className="homepage-container">
-      <div className="content">
-        <Select
-          className="dropdown"
-          value={selectedTeam.teamName}
-          onChange={handleTeamChange}
-        >
-          {inPlTeams.map((team) => (
-            <MenuItem key={team.teamName} value={team.teamName}>
-              {team.teamName}
-            </MenuItem>
-          ))}
-        </Select>
-        {<CountdownTimer key={countdownKey} team={selectedTeam} />}
+    <div>
+      <Header />
+      <div className="homepage-container">
+        <div className="content">
+          <Select
+            className="dropdown"
+            value={selectedTeam.teamName}
+            onChange={handleTeamChange}
+          >
+            {inPlTeams.map((team) => (
+              <MenuItem key={team.teamName} value={team.teamName}>
+                {team.teamName}
+              </MenuItem>
+            ))}
+          </Select>
+          {<CountdownTimer key={countdownKey} team={selectedTeam} />}
+        </div>
       </div>
+      <Footer />
     </div>
   );
 }
