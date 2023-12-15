@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./App/home.js";
-console.log(window.location.pathname);
 ReactDOM.render(
   <React.StrictMode>
     <Router>
