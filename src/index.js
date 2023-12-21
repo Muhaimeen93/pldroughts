@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom"; // Change HashRouter to BrowserRouter
+import { HashRouter as Router, Route, Routes } from "react-router-dom"; // Change HashRouter to BrowserRouter
 import Home from "./App/home.js";
 import PrivacyPolicy from "./privacyPolicy.js";
 
