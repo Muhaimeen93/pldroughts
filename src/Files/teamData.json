@@ -38,7 +38,7 @@
     "teamName": "Burnley",
     "lastWon": "1960-05-20T15:00:00Z",
     "logo": "../Images/burnley.png",
-    "inPl": true,
+    "inPl": false,
     "color": "#690C3A"
   },
   {
@@ -70,6 +70,20 @@
     "color": "#000000"
   },
   {
+    "teamName": "Ipswich Town",
+    "lastWon": "1962-04-28T20:15:00Z",
+    "logo": "../Images/ipswichtown.png",
+    "inPl": true,
+    "color": "#3A64A2"
+  },
+  {
+    "teamName": "Leicester City",
+    "lastWon": "2016-05-15T20:15:00Z",
+    "logo": "../Images/leicestercity.png",
+    "inPl": true,
+    "color": "#0053A0"
+  },
+  {
     "teamName": "Liverpool",
     "lastWon": "2020-07-26T15:00:00Z",
     "logo": "../Images/liverpool.png",
@@ -80,12 +94,12 @@
     "teamName": "Luton Town",
     "lastWon": "N/A",
     "logo": "../Images/lutontown.png",
-    "inPl": true,
+    "inPl": false,
     "color": "#011142"
   },
   {
     "teamName": "Manchester City",
-    "lastWon": "2023-05-28T21:15:00Z",
+    "lastWon": "2024-05-19T21:15:00Z",
     "logo": "../Images/manchestercity.png",
     "inPl": true,
     "color": "#05AFD0"
@@ -115,8 +129,15 @@
     "teamName": "Sheffield United",
     "lastWon": "1898-04-10T15:00:00Z",
     "logo": "../Images/sheffieldunited.png",
-    "inPl": true,
+    "inPl": false,
     "color": "#CD3529"
+  },
+  {
+    "teamName": "Southampton",
+    "lastWon": "N/A",
+    "logo": "../Images/southampton.png",
+    "inPl": true,
+    "color": "#ED1A3A"
   },
   {
     "teamName": "Tottenham Hotspur",
