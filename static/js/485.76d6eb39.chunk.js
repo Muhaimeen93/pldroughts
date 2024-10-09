@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpldroughts=self.webpackChunkpldroughts||[]).push([[485],{485:(e,s,p)=>{e.exports=p.p+"static/media/ipswichtown.176e7584aeca0e74b8b7.png"}}]);

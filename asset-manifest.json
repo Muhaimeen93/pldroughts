@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.cb983d53.css",
-    "main.js": "/static/js/main.1ec5b915.js",
+    "main.js": "/static/js/main.47ced430.js",
     "static/js/846.7b0d3854.chunk.js": "/static/js/846.7b0d3854.chunk.js",
     "static/js/376.eb46e7a0.chunk.js": "/static/js/376.eb46e7a0.chunk.js",
     "static/js/656.ccc40b83.chunk.js": "/static/js/656.ccc40b83.chunk.js",
@@ -12,6 +12,8 @@
     "static/js/174.2619b202.chunk.js": "/static/js/174.2619b202.chunk.js",
     "static/js/238.1af24c1d.chunk.js": "/static/js/238.1af24c1d.chunk.js",
     "static/js/936.30a556f4.chunk.js": "/static/js/936.30a556f4.chunk.js",
+    "static/js/485.76d6eb39.chunk.js": "/static/js/485.76d6eb39.chunk.js",
+    "static/js/764.bae8fa7e.chunk.js": "/static/js/764.bae8fa7e.chunk.js",
     "static/js/351.a69b49ee.chunk.js": "/static/js/351.a69b49ee.chunk.js",
     "static/js/980.a676bda4.chunk.js": "/static/js/980.a676bda4.chunk.js",
     "static/js/655.2da0ce24.chunk.js": "/static/js/655.2da0ce24.chunk.js",
@@ -19,11 +21,13 @@
     "static/js/109.ab607070.chunk.js": "/static/js/109.ab607070.chunk.js",
     "static/js/167.76c32c42.chunk.js": "/static/js/167.76c32c42.chunk.js",
     "static/js/556.6d3440c0.chunk.js": "/static/js/556.6d3440c0.chunk.js",
+    "static/js/62.aa78752b.chunk.js": "/static/js/62.aa78752b.chunk.js",
     "static/js/690.4507fbe4.chunk.js": "/static/js/690.4507fbe4.chunk.js",
     "static/js/75.7dc4fad3.chunk.js": "/static/js/75.7dc4fad3.chunk.js",
     "static/js/471.e2cb5d73.chunk.js": "/static/js/471.e2cb5d73.chunk.js",
     "static/media/chelsea.png": "/static/media/chelsea.774f07fbacfd0694d290.png",
     "static/media/newcastleunited.png": "/static/media/newcastleunited.ccb5e467da522ab3ba05.png",
+    "static/media/leicestercity.png": "/static/media/leicestercity.90d24eaa37a32668413e.png",
     "static/media/manchestercity.png": "/static/media/manchestercity.edd4e0f90f97b77977b1.png",
     "static/media/manchesterunited.png": "/static/media/manchesterunited.8d1f67ee25ba82166fbd.png",
     "static/media/liverpool.png": "/static/media/liverpool.21f7a492e724d9bba2e0.png",
@@ -31,11 +35,13 @@
     "static/media/crystalpalace.png": "/static/media/crystalpalace.eb251722651da192ccc8.png",
     "static/media/westhamunited.png": "/static/media/westhamunited.d1356bfa265ee031753c.png",
     "static/media/brentford.png": "/static/media/brentford.4bec5b6ac33e45f194e6.png",
+    "static/media/southampton.png": "/static/media/southampton.8cdd98c1877c3ce222a1.png",
     "static/media/arsenal.png": "/static/media/arsenal.bad4c906fbc2ebd96141.png",
     "static/media/everton.png": "/static/media/everton.fdc4bb8edb3ef346db76.png",
     "static/media/burnley.png": "/static/media/burnley.39916859ebf7e0d492fd.png",
     "static/media/sheffieldunited.png": "/static/media/sheffieldunited.9409e928425b909529a4.png",
     "static/media/brighton&hovealbion.png": "/static/media/brighton&hovealbion.faa0898db235a301982f.png",
+    "static/media/ipswichtown.png": "/static/media/ipswichtown.176e7584aeca0e74b8b7.png",
     "static/media/astonvilla.png": "/static/media/astonvilla.ea962760c3dd90dae92a.png",
     "static/media/nottinghamforest.png": "/static/media/nottinghamforest.2e116e9242c77a79634b.png",
     "static/media/bournemouth.png": "/static/media/bournemouth.807314c762a121996f00.png",
@@ -45,10 +51,10 @@
     "static/media/logo.png": "/static/media/logo.59d3cac338431295320f.png",
     "index.html": "/index.html",
     "main.cb983d53.css.map": "/static/css/main.cb983d53.css.map",
-    "main.1ec5b915.js.map": "/static/js/main.1ec5b915.js.map"
+    "main.47ced430.js.map": "/static/js/main.47ced430.js.map"
   },
   "entrypoints": [
     "static/css/main.cb983d53.css",
-    "static/js/main.1ec5b915.js"
+    "static/js/main.47ced430.js"
   ]
 }
